@@ -3,9 +3,9 @@
 ## description
 there are 3 routers in the App newsdata, categories and news
 
-1. newsdata: in this route there are 3 endpoints, 2 retrieve news from https://newsdata.io/ and the other one retrieves news and store it on the DB
+1. newsdata: there are 3 endpoints, 2 retrieve latest news and sources from https://newsdata.io/ and the other one retrieves news and store it on the DB
 2. categories: get, create, update and delete category
-3. news: get, create, update and delete category
+3. news: get, create, update and delete news
 
 ## Documentation
 
