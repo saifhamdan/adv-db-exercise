@@ -8,7 +8,7 @@ there are 3 routers in the App newsdata, categories and news
 3. news: get, create, update and delete news
 
 ### ERD
-![image](https://user-images.githubusercontent.com/76107501/204091967-d1e85a1b-dd34-4132-b124-3720715d647f.png)
+![image](https://user-images.githubusercontent.com/76107501/204092276-baa09d03-ad36-4f26-a5c9-9a6c9e789453.png)
 
 
 ## Documentation
